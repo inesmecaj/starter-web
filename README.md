@@ -15,3 +15,7 @@ This is the purpose
 This is the deployment section for this website
 
 ## How to contribute
+
+### Copyright
+
+Message cpr
