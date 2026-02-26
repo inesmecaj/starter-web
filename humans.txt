@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Ines Mecaj mecajines@gmail.com no twitter
+    Ines Mecaj mecajines@gmail.com still no twitter
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	MariaDB
