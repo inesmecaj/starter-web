@@ -12,6 +12,6 @@ This is the purpose
 
 ## Deployment
 
-This is the deployment section for this webpage
+This is the deployment section for this website
 
 ## How to contribute
