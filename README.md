@@ -19,6 +19,7 @@ This is the deployment section for this website
 ## How to contribute
 
 Please fork this repo
+or not
 
 ### Copyright
 
